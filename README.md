@@ -1,6 +1,6 @@
 - 👋 Hi, This is Rajesh Kumar. I am a Front End Developer.
 - 👀 I’m interested in Javascript, jQuery, React.
-- 🌱 I’m currently learning Javascript (beginner to advanced).
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on all my public repository/project, If you feel it can be improved. Suggestions are welcome always.
 - 📫 How to reach me ...
 
